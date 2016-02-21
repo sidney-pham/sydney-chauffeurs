@@ -1,0 +1,47 @@
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.exe.config
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.exe
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.pdb
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.xml
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.vbprojResolveAssemblyReference.cache
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.Resources.resources
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.vbproj.GenerateResource.Cache
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.exe
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.xml
+\\sr8137cf01-fs02\studentusers\2017\433986989\documents\visual studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.pdb
+\\SR8137CF01-FS02\StudentUsers\2017\433986989\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formLanding.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.exe.config
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.exe
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.xml
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.pdb
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.exe
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.pdb
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.xml
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.vbprojResolveAssemblyReference.cache
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formLanding.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.Resources.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.vbproj.GenerateResource.Cache
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formBook.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formGetQuote.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formOurService.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formPriceGuide.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formViewFleet.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formPriceGuide2.resources
+C:\Users\Sidney\Documents\Visual Studio 2015\Projects\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formMeetingMap.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.exe.config
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.exe
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.xml
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.pdb
+E:\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.exe
+E:\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.pdb
+E:\Sydney Chauffeurs\Sydney Chauffeurs\bin\Debug\Sydney Chauffeurs.xml
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.vbprojResolveAssemblyReference.cache
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formBook.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formMeetingMap.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formPriceGuide2.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formViewFleet.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formGetQuote.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formLanding.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formOurService.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.formPriceGuide.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney_Chauffeurs.Resources.resources
+E:\Sydney Chauffeurs\Sydney Chauffeurs\obj\Debug\Sydney Chauffeurs.vbproj.GenerateResource.Cache
